@@ -21,17 +21,19 @@ The dashboard features:
 
 ### Code Screenshot
 
-> Place image inside `/assets` folder
 
-![Code Screenshot](./assets/code-screenshot.png)
+![Code Screenshot](./assets/html1.png)
+![Code Screenshot](./assets/html2.png)
+![Code Screenshot](./assets/html3.png)
+![Code Screenshot](./assets/html4.png)
 
 ### Output Screenshot (Light Mode)
 
-![Dashboard Light Mode](./assets/dashboard-light.png)
+![Code Screenshot](./assets/output1.png)
 
 ### Output Screenshot (Dark Mode)
 
-![Dashboard Dark Mode](./assets/dashboard-dark.png)
+![Code Screenshot](./assets/output2.png)
 
 ---
 
